@@ -11,20 +11,20 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		32856EEE2EA8EA79000EA90C /* Exceptions for "ImprovedLamp" folder in "ImprovedLamp" target */ = {
+		32856F472EA8EF08000EA90C /* Exceptions for "ImprovedLamp" folder in "ImprovedLamp" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
-				Info.plist,
+				Resources/Info.plist,
 			);
 			target = 32856ED62EA8EA77000EA90C /* ImprovedLamp */;
 		};
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		32856ED92EA8EA77000EA90C /* ImprovedLamp */ = {
+		32856F3B2EA8EF08000EA90C /* ImprovedLamp */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				32856EEE2EA8EA79000EA90C /* Exceptions for "ImprovedLamp" folder in "ImprovedLamp" target */,
+				32856F472EA8EF08000EA90C /* Exceptions for "ImprovedLamp" folder in "ImprovedLamp" target */,
 			);
 			path = ImprovedLamp;
 			sourceTree = "<group>";
@@ -45,7 +45,7 @@
 		32856ECE2EA8EA77000EA90C = {
 			isa = PBXGroup;
 			children = (
-				32856ED92EA8EA77000EA90C /* ImprovedLamp */,
+				32856F3B2EA8EF08000EA90C /* ImprovedLamp */,
 				32856ED82EA8EA77000EA90C /* Products */,
 			);
 			sourceTree = "<group>";
@@ -74,7 +74,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				32856ED92EA8EA77000EA90C /* ImprovedLamp */,
+				32856F3B2EA8EF08000EA90C /* ImprovedLamp */,
 			);
 			name = ImprovedLamp;
 			packageProductDependencies = (
@@ -146,10 +146,9 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = YV72SAKGKB;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = ImprovedLamp/Info.plist;
+				INFOPLIST_FILE = ImprovedLamp/Resources/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -174,10 +173,9 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = YV72SAKGKB;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = ImprovedLamp/Info.plist;
+				INFOPLIST_FILE = ImprovedLamp/Resources/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
